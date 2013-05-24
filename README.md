@@ -44,4 +44,5 @@ After that, you can setup a Cron job that will execute the db_backup.sh everyday
 
 
 
+
 The scripts all yours under creative commons license :)
