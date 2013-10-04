@@ -26,7 +26,7 @@ Dropbox Setup
 
 Follow these steps to setup the Dropbox app:
 
-1. You will need to create a Dropbox app, to get the ```App_key``` and ```App_Secret```. You can create it here (select the App Type as Core and select the Permission type as Full Dropbox)
+1. You will need to create a Dropbox app, to get the ```App_key``` and ```App_Secret```. You can create it [here](https://www.dropbox.com/developers/apps). (select the App Type as Core and select the Permission type as Full Dropbox)
 
 2. Once the app is successfully created, Dropbox will provide you the ```app_key``` and ```app_secret```. Then provide this ```app_key``` and ```app_secret``` in ```client_secrets.json``` (please do not share your App_Key and App_Secret publicly).
 
